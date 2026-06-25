@@ -1,0 +1,1001 @@
+CustomerID,CompanyName,Industry,Country,AcquisitionChannel
+1001,Client_Corp_1001,Retail,USA,Paid Ads
+1002,Client_Corp_1002,Education,USA,Cold Outreach
+1003,Client_Corp_1003,Finance,USA,Organic Search
+1004,Client_Corp_1004,Education,USA,Cold Outreach
+1005,Client_Corp_1005,Education,USA,Paid Ads
+1006,Client_Corp_1006,Healthcare,USA,Cold Outreach
+1007,Client_Corp_1007,Finance,USA,Referral
+1008,Client_Corp_1008,Finance,Australia,Organic Search
+1009,Client_Corp_1009,Finance,USA,Paid Ads
+1010,Client_Corp_1010,Education,UK,Paid Ads
+1011,Client_Corp_1011,Retail,UK,Paid Ads
+1012,Client_Corp_1012,Finance,India,Organic Search
+1013,Client_Corp_1013,Manufacturing,USA,Referral
+1014,Client_Corp_1014,Education,USA,Paid Ads
+1015,Client_Corp_1015,Healthcare,India,Cold Outreach
+1016,Client_Corp_1016,Retail,Australia,Paid Ads
+1017,Client_Corp_1017,Manufacturing,Australia,Paid Ads
+1018,Client_Corp_1018,Manufacturing,USA,Paid Ads
+1019,Client_Corp_1019,Healthcare,USA,Paid Ads
+1020,Client_Corp_1020,Retail,Canada,Referral
+1021,Client_Corp_1021,Education,India,Cold Outreach
+1022,Client_Corp_1022,Tech,Canada,Referral
+1023,Client_Corp_1023,Retail,Canada,Cold Outreach
+1024,Client_Corp_1024,Healthcare,USA,Paid Ads
+1025,Client_Corp_1025,Manufacturing,Germany,Organic Search
+1026,Client_Corp_1026,Education,USA,Referral
+1027,Client_Corp_1027,Retail,USA,Organic Search
+1028,Client_Corp_1028,Tech,UK,Referral
+1029,Client_Corp_1029,Tech,UK,Paid Ads
+1030,Client_Corp_1030,Finance,USA,Referral
+1031,Client_Corp_1031,Finance,USA,Paid Ads
+1032,Client_Corp_1032,Healthcare,Canada,Referral
+1033,Client_Corp_1033,Retail,USA,Paid Ads
+1034,Client_Corp_1034,Retail,Canada,Paid Ads
+1035,Client_Corp_1035,Manufacturing,USA,Cold Outreach
+1036,Client_Corp_1036,Manufacturing,UK,Paid Ads
+1037,Client_Corp_1037,Manufacturing,UK,Cold Outreach
+1038,Client_Corp_1038,Finance,USA,Paid Ads
+1039,Client_Corp_1039,Retail,USA,Organic Search
+1040,Client_Corp_1040,Retail,USA,Paid Ads
+1041,Client_Corp_1041,Tech,USA,Organic Search
+1042,Client_Corp_1042,Finance,India,Organic Search
+1043,Client_Corp_1043,Education,USA,Paid Ads
+1044,Client_Corp_1044,Finance,Australia,Organic Search
+1045,Client_Corp_1045,Education,USA,Cold Outreach
+1046,Client_Corp_1046,Tech,Canada,Referral
+1047,Client_Corp_1047,Healthcare,Germany,Paid Ads
+1048,Client_Corp_1048,Retail,Canada,Organic Search
+1049,Client_Corp_1049,Tech,UK,Paid Ads
+1050,Client_Corp_1050,Retail,UK,Cold Outreach
+1051,Client_Corp_1051,Manufacturing,USA,Paid Ads
+1052,Client_Corp_1052,Healthcare,India,Paid Ads
+1053,Client_Corp_1053,Healthcare,Australia,Organic Search
+1054,Client_Corp_1054,Tech,India,Cold Outreach
+1055,Client_Corp_1055,Healthcare,USA,Referral
+1056,Client_Corp_1056,Education,Germany,Referral
+1057,Client_Corp_1057,Healthcare,India,Organic Search
+1058,Client_Corp_1058,Retail,USA,Paid Ads
+1059,Client_Corp_1059,Retail,USA,Organic Search
+1060,Client_Corp_1060,Retail,Germany,Organic Search
+1061,Client_Corp_1061,Retail,Canada,Organic Search
+1062,Client_Corp_1062,Education,Australia,Paid Ads
+1063,Client_Corp_1063,Finance,USA,Cold Outreach
+1064,Client_Corp_1064,Manufacturing,Germany,Organic Search
+1065,Client_Corp_1065,Tech,USA,Paid Ads
+1066,Client_Corp_1066,Retail,USA,Cold Outreach
+1067,Client_Corp_1067,Healthcare,USA,Organic Search
+1068,Client_Corp_1068,Retail,Australia,Referral
+1069,Client_Corp_1069,Healthcare,Canada,Cold Outreach
+1070,Client_Corp_1070,Manufacturing,UK,Organic Search
+1071,Client_Corp_1071,Manufacturing,USA,Cold Outreach
+1072,Client_Corp_1072,Manufacturing,Australia,Cold Outreach
+1073,Client_Corp_1073,Healthcare,USA,Cold Outreach
+1074,Client_Corp_1074,Retail,Australia,Cold Outreach
+1075,Client_Corp_1075,Manufacturing,UK,Cold Outreach
+1076,Client_Corp_1076,Education,USA,Cold Outreach
+1077,Client_Corp_1077,Healthcare,UK,Organic Search
+1078,Client_Corp_1078,Healthcare,USA,Referral
+1079,Client_Corp_1079,Retail,Germany,Paid Ads
+1080,Client_Corp_1080,Healthcare,UK,Cold Outreach
+1081,Client_Corp_1081,Healthcare,USA,Paid Ads
+1082,Client_Corp_1082,Manufacturing,Australia,Organic Search
+1083,Client_Corp_1083,Retail,USA,Cold Outreach
+1084,Client_Corp_1084,Manufacturing,UK,Referral
+1085,Client_Corp_1085,Manufacturing,India,Paid Ads
+1086,Client_Corp_1086,Retail,Canada,Cold Outreach
+1087,Client_Corp_1087,Tech,USA,Organic Search
+1088,Client_Corp_1088,Manufacturing,India,Referral
+1089,Client_Corp_1089,Education,Canada,Paid Ads
+1090,Client_Corp_1090,Education,USA,Paid Ads
+1091,Client_Corp_1091,Healthcare,USA,Cold Outreach
+1092,Client_Corp_1092,Education,Germany,Referral
+1093,Client_Corp_1093,Healthcare,Canada,Referral
+1094,Client_Corp_1094,Tech,UK,Referral
+1095,Client_Corp_1095,Retail,Australia,Referral
+1096,Client_Corp_1096,Retail,Germany,Organic Search
+1097,Client_Corp_1097,Retail,USA,Referral
+1098,Client_Corp_1098,Education,USA,Paid Ads
+1099,Client_Corp_1099,Tech,USA,Paid Ads
+1100,Client_Corp_1100,Education,Germany,Organic Search
+1101,Client_Corp_1101,Education,USA,Paid Ads
+1102,Client_Corp_1102,Tech,Canada,Paid Ads
+1103,Client_Corp_1103,Tech,Germany,Referral
+1104,Client_Corp_1104,Tech,Australia,Paid Ads
+1105,Client_Corp_1105,Tech,USA,Organic Search
+1106,Client_Corp_1106,Retail,Australia,Referral
+1107,Client_Corp_1107,Finance,USA,Cold Outreach
+1108,Client_Corp_1108,Finance,Australia,Referral
+1109,Client_Corp_1109,Tech,USA,Organic Search
+1110,Client_Corp_1110,Finance,USA,Referral
+1111,Client_Corp_1111,Finance,Germany,Referral
+1112,Client_Corp_1112,Tech,USA,Organic Search
+1113,Client_Corp_1113,Finance,USA,Referral
+1114,Client_Corp_1114,Education,Germany,Organic Search
+1115,Client_Corp_1115,Healthcare,Germany,Organic Search
+1116,Client_Corp_1116,Healthcare,Canada,Cold Outreach
+1117,Client_Corp_1117,Tech,Canada,Paid Ads
+1118,Client_Corp_1118,Retail,UK,Paid Ads
+1119,Client_Corp_1119,Tech,USA,Referral
+1120,Client_Corp_1120,Retail,USA,Referral
+1121,Client_Corp_1121,Healthcare,USA,Cold Outreach
+1122,Client_Corp_1122,Tech,India,Cold Outreach
+1123,Client_Corp_1123,Manufacturing,Canada,Cold Outreach
+1124,Client_Corp_1124,Education,UK,Organic Search
+1125,Client_Corp_1125,Finance,UK,Cold Outreach
+1126,Client_Corp_1126,Retail,India,Cold Outreach
+1127,Client_Corp_1127,Manufacturing,USA,Referral
+1128,Client_Corp_1128,Finance,Canada,Cold Outreach
+1129,Client_Corp_1129,Finance,UK,Organic Search
+1130,Client_Corp_1130,Tech,Canada,Organic Search
+1131,Client_Corp_1131,Finance,USA,Referral
+1132,Client_Corp_1132,Education,Australia,Cold Outreach
+1133,Client_Corp_1133,Manufacturing,India,Cold Outreach
+1134,Client_Corp_1134,Finance,Canada,Organic Search
+1135,Client_Corp_1135,Tech,Canada,Cold Outreach
+1136,Client_Corp_1136,Education,India,Cold Outreach
+1137,Client_Corp_1137,Healthcare,Germany,Cold Outreach
+1138,Client_Corp_1138,Manufacturing,USA,Paid Ads
+1139,Client_Corp_1139,Finance,Canada,Referral
+1140,Client_Corp_1140,Tech,Canada,Paid Ads
+1141,Client_Corp_1141,Healthcare,UK,Referral
+1142,Client_Corp_1142,Healthcare,Germany,Organic Search
+1143,Client_Corp_1143,Retail,India,Cold Outreach
+1144,Client_Corp_1144,Education,India,Referral
+1145,Client_Corp_1145,Finance,UK,Paid Ads
+1146,Client_Corp_1146,Tech,USA,Cold Outreach
+1147,Client_Corp_1147,Retail,India,Organic Search
+1148,Client_Corp_1148,Education,Australia,Referral
+1149,Client_Corp_1149,Retail,USA,Referral
+1150,Client_Corp_1150,Manufacturing,India,Referral
+1151,Client_Corp_1151,Education,Australia,Cold Outreach
+1152,Client_Corp_1152,Education,UK,Paid Ads
+1153,Client_Corp_1153,Finance,Canada,Paid Ads
+1154,Client_Corp_1154,Education,USA,Referral
+1155,Client_Corp_1155,Retail,USA,Organic Search
+1156,Client_Corp_1156,Education,USA,Organic Search
+1157,Client_Corp_1157,Finance,Australia,Paid Ads
+1158,Client_Corp_1158,Finance,USA,Organic Search
+1159,Client_Corp_1159,Manufacturing,USA,Paid Ads
+1160,Client_Corp_1160,Retail,USA,Referral
+1161,Client_Corp_1161,Healthcare,UK,Paid Ads
+1162,Client_Corp_1162,Healthcare,India,Paid Ads
+1163,Client_Corp_1163,Education,USA,Referral
+1164,Client_Corp_1164,Manufacturing,USA,Organic Search
+1165,Client_Corp_1165,Tech,Germany,Paid Ads
+1166,Client_Corp_1166,Education,UK,Paid Ads
+1167,Client_Corp_1167,Manufacturing,USA,Referral
+1168,Client_Corp_1168,Retail,UK,Organic Search
+1169,Client_Corp_1169,Retail,USA,Paid Ads
+1170,Client_Corp_1170,Retail,USA,Referral
+1171,Client_Corp_1171,Retail,UK,Paid Ads
+1172,Client_Corp_1172,Retail,UK,Cold Outreach
+1173,Client_Corp_1173,Manufacturing,India,Referral
+1174,Client_Corp_1174,Manufacturing,USA,Organic Search
+1175,Client_Corp_1175,Finance,Canada,Organic Search
+1176,Client_Corp_1176,Healthcare,Canada,Organic Search
+1177,Client_Corp_1177,Retail,USA,Organic Search
+1178,Client_Corp_1178,Tech,Canada,Paid Ads
+1179,Client_Corp_1179,Manufacturing,USA,Paid Ads
+1180,Client_Corp_1180,Tech,India,Organic Search
+1181,Client_Corp_1181,Tech,USA,Organic Search
+1182,Client_Corp_1182,Tech,UK,Organic Search
+1183,Client_Corp_1183,Finance,USA,Paid Ads
+1184,Client_Corp_1184,Manufacturing,India,Organic Search
+1185,Client_Corp_1185,Tech,UK,Organic Search
+1186,Client_Corp_1186,Retail,Canada,Cold Outreach
+1187,Client_Corp_1187,Education,USA,Cold Outreach
+1188,Client_Corp_1188,Tech,Germany,Organic Search
+1189,Client_Corp_1189,Finance,USA,Referral
+1190,Client_Corp_1190,Manufacturing,Australia,Organic Search
+1191,Client_Corp_1191,Finance,USA,Cold Outreach
+1192,Client_Corp_1192,Tech,USA,Referral
+1193,Client_Corp_1193,Manufacturing,USA,Referral
+1194,Client_Corp_1194,Education,UK,Organic Search
+1195,Client_Corp_1195,Tech,Canada,Cold Outreach
+1196,Client_Corp_1196,Finance,USA,Cold Outreach
+1197,Client_Corp_1197,Healthcare,Germany,Referral
+1198,Client_Corp_1198,Retail,UK,Organic Search
+1199,Client_Corp_1199,Finance,UK,Paid Ads
+1200,Client_Corp_1200,Manufacturing,UK,Paid Ads
+1201,Client_Corp_1201,Tech,UK,Cold Outreach
+1202,Client_Corp_1202,Retail,Canada,Paid Ads
+1203,Client_Corp_1203,Tech,USA,Cold Outreach
+1204,Client_Corp_1204,Manufacturing,USA,Cold Outreach
+1205,Client_Corp_1205,Tech,Australia,Cold Outreach
+1206,Client_Corp_1206,Healthcare,India,Paid Ads
+1207,Client_Corp_1207,Retail,USA,Cold Outreach
+1208,Client_Corp_1208,Retail,USA,Referral
+1209,Client_Corp_1209,Manufacturing,Canada,Organic Search
+1210,Client_Corp_1210,Healthcare,UK,Organic Search
+1211,Client_Corp_1211,Finance,USA,Cold Outreach
+1212,Client_Corp_1212,Tech,USA,Organic Search
+1213,Client_Corp_1213,Education,Germany,Paid Ads
+1214,Client_Corp_1214,Tech,Canada,Paid Ads
+1215,Client_Corp_1215,Tech,USA,Organic Search
+1216,Client_Corp_1216,Finance,USA,Paid Ads
+1217,Client_Corp_1217,Tech,USA,Organic Search
+1218,Client_Corp_1218,Healthcare,Canada,Organic Search
+1219,Client_Corp_1219,Healthcare,USA,Organic Search
+1220,Client_Corp_1220,Retail,USA,Cold Outreach
+1221,Client_Corp_1221,Manufacturing,Germany,Organic Search
+1222,Client_Corp_1222,Education,USA,Cold Outreach
+1223,Client_Corp_1223,Tech,Canada,Organic Search
+1224,Client_Corp_1224,Tech,USA,Organic Search
+1225,Client_Corp_1225,Finance,USA,Organic Search
+1226,Client_Corp_1226,Manufacturing,USA,Paid Ads
+1227,Client_Corp_1227,Healthcare,Germany,Cold Outreach
+1228,Client_Corp_1228,Education,Australia,Cold Outreach
+1229,Client_Corp_1229,Retail,Australia,Organic Search
+1230,Client_Corp_1230,Healthcare,USA,Organic Search
+1231,Client_Corp_1231,Manufacturing,Canada,Paid Ads
+1232,Client_Corp_1232,Retail,USA,Paid Ads
+1233,Client_Corp_1233,Finance,USA,Paid Ads
+1234,Client_Corp_1234,Finance,Australia,Cold Outreach
+1235,Client_Corp_1235,Tech,USA,Cold Outreach
+1236,Client_Corp_1236,Manufacturing,USA,Cold Outreach
+1237,Client_Corp_1237,Education,USA,Organic Search
+1238,Client_Corp_1238,Retail,USA,Cold Outreach
+1239,Client_Corp_1239,Healthcare,USA,Referral
+1240,Client_Corp_1240,Manufacturing,Canada,Referral
+1241,Client_Corp_1241,Manufacturing,UK,Paid Ads
+1242,Client_Corp_1242,Finance,Australia,Cold Outreach
+1243,Client_Corp_1243,Tech,Australia,Referral
+1244,Client_Corp_1244,Tech,USA,Paid Ads
+1245,Client_Corp_1245,Retail,USA,Cold Outreach
+1246,Client_Corp_1246,Finance,USA,Organic Search
+1247,Client_Corp_1247,Manufacturing,Canada,Referral
+1248,Client_Corp_1248,Education,USA,Organic Search
+1249,Client_Corp_1249,Finance,Canada,Cold Outreach
+1250,Client_Corp_1250,Retail,UK,Referral
+1251,Client_Corp_1251,Retail,Canada,Cold Outreach
+1252,Client_Corp_1252,Finance,UK,Organic Search
+1253,Client_Corp_1253,Retail,USA,Referral
+1254,Client_Corp_1254,Finance,India,Organic Search
+1255,Client_Corp_1255,Healthcare,Germany,Cold Outreach
+1256,Client_Corp_1256,Finance,USA,Cold Outreach
+1257,Client_Corp_1257,Finance,Australia,Organic Search
+1258,Client_Corp_1258,Retail,UK,Referral
+1259,Client_Corp_1259,Retail,Australia,Organic Search
+1260,Client_Corp_1260,Tech,Germany,Cold Outreach
+1261,Client_Corp_1261,Tech,UK,Organic Search
+1262,Client_Corp_1262,Healthcare,USA,Cold Outreach
+1263,Client_Corp_1263,Tech,USA,Organic Search
+1264,Client_Corp_1264,Finance,UK,Referral
+1265,Client_Corp_1265,Retail,Canada,Referral
+1266,Client_Corp_1266,Tech,USA,Organic Search
+1267,Client_Corp_1267,Tech,USA,Organic Search
+1268,Client_Corp_1268,Healthcare,Australia,Referral
+1269,Client_Corp_1269,Manufacturing,India,Cold Outreach
+1270,Client_Corp_1270,Healthcare,UK,Referral
+1271,Client_Corp_1271,Finance,USA,Cold Outreach
+1272,Client_Corp_1272,Retail,USA,Organic Search
+1273,Client_Corp_1273,Healthcare,USA,Organic Search
+1274,Client_Corp_1274,Tech,India,Cold Outreach
+1275,Client_Corp_1275,Retail,USA,Organic Search
+1276,Client_Corp_1276,Retail,Canada,Cold Outreach
+1277,Client_Corp_1277,Tech,USA,Paid Ads
+1278,Client_Corp_1278,Healthcare,Canada,Referral
+1279,Client_Corp_1279,Tech,Canada,Paid Ads
+1280,Client_Corp_1280,Manufacturing,Australia,Cold Outreach
+1281,Client_Corp_1281,Retail,USA,Referral
+1282,Client_Corp_1282,Education,USA,Cold Outreach
+1283,Client_Corp_1283,Education,USA,Referral
+1284,Client_Corp_1284,Finance,India,Referral
+1285,Client_Corp_1285,Tech,Australia,Referral
+1286,Client_Corp_1286,Tech,Canada,Referral
+1287,Client_Corp_1287,Finance,Canada,Cold Outreach
+1288,Client_Corp_1288,Finance,Canada,Referral
+1289,Client_Corp_1289,Finance,USA,Referral
+1290,Client_Corp_1290,Retail,India,Paid Ads
+1291,Client_Corp_1291,Manufacturing,UK,Organic Search
+1292,Client_Corp_1292,Tech,USA,Organic Search
+1293,Client_Corp_1293,Retail,UK,Paid Ads
+1294,Client_Corp_1294,Finance,USA,Paid Ads
+1295,Client_Corp_1295,Tech,USA,Cold Outreach
+1296,Client_Corp_1296,Retail,Germany,Cold Outreach
+1297,Client_Corp_1297,Manufacturing,USA,Cold Outreach
+1298,Client_Corp_1298,Retail,Canada,Paid Ads
+1299,Client_Corp_1299,Manufacturing,USA,Paid Ads
+1300,Client_Corp_1300,Finance,USA,Referral
+1301,Client_Corp_1301,Manufacturing,USA,Cold Outreach
+1302,Client_Corp_1302,Tech,USA,Cold Outreach
+1303,Client_Corp_1303,Finance,Germany,Cold Outreach
+1304,Client_Corp_1304,Tech,USA,Organic Search
+1305,Client_Corp_1305,Education,Canada,Referral
+1306,Client_Corp_1306,Healthcare,UK,Cold Outreach
+1307,Client_Corp_1307,Manufacturing,Canada,Cold Outreach
+1308,Client_Corp_1308,Healthcare,India,Cold Outreach
+1309,Client_Corp_1309,Healthcare,Germany,Organic Search
+1310,Client_Corp_1310,Manufacturing,USA,Organic Search
+1311,Client_Corp_1311,Finance,USA,Paid Ads
+1312,Client_Corp_1312,Education,USA,Referral
+1313,Client_Corp_1313,Tech,Canada,Paid Ads
+1314,Client_Corp_1314,Retail,USA,Referral
+1315,Client_Corp_1315,Tech,UK,Organic Search
+1316,Client_Corp_1316,Retail,Canada,Cold Outreach
+1317,Client_Corp_1317,Tech,USA,Paid Ads
+1318,Client_Corp_1318,Manufacturing,Germany,Cold Outreach
+1319,Client_Corp_1319,Education,USA,Paid Ads
+1320,Client_Corp_1320,Retail,USA,Organic Search
+1321,Client_Corp_1321,Finance,Germany,Organic Search
+1322,Client_Corp_1322,Tech,UK,Organic Search
+1323,Client_Corp_1323,Tech,Canada,Paid Ads
+1324,Client_Corp_1324,Retail,UK,Referral
+1325,Client_Corp_1325,Finance,USA,Paid Ads
+1326,Client_Corp_1326,Finance,Australia,Referral
+1327,Client_Corp_1327,Manufacturing,Germany,Paid Ads
+1328,Client_Corp_1328,Manufacturing,Canada,Paid Ads
+1329,Client_Corp_1329,Manufacturing,USA,Organic Search
+1330,Client_Corp_1330,Manufacturing,Canada,Cold Outreach
+1331,Client_Corp_1331,Manufacturing,USA,Cold Outreach
+1332,Client_Corp_1332,Manufacturing,USA,Referral
+1333,Client_Corp_1333,Education,India,Cold Outreach
+1334,Client_Corp_1334,Finance,USA,Paid Ads
+1335,Client_Corp_1335,Manufacturing,India,Paid Ads
+1336,Client_Corp_1336,Finance,UK,Organic Search
+1337,Client_Corp_1337,Finance,USA,Organic Search
+1338,Client_Corp_1338,Healthcare,UK,Cold Outreach
+1339,Client_Corp_1339,Education,Australia,Referral
+1340,Client_Corp_1340,Manufacturing,Germany,Cold Outreach
+1341,Client_Corp_1341,Tech,Australia,Cold Outreach
+1342,Client_Corp_1342,Retail,Canada,Cold Outreach
+1343,Client_Corp_1343,Tech,Canada,Cold Outreach
+1344,Client_Corp_1344,Education,Australia,Paid Ads
+1345,Client_Corp_1345,Retail,USA,Referral
+1346,Client_Corp_1346,Education,UK,Paid Ads
+1347,Client_Corp_1347,Finance,USA,Referral
+1348,Client_Corp_1348,Retail,India,Organic Search
+1349,Client_Corp_1349,Finance,India,Cold Outreach
+1350,Client_Corp_1350,Tech,USA,Paid Ads
+1351,Client_Corp_1351,Tech,Germany,Referral
+1352,Client_Corp_1352,Retail,India,Organic Search
+1353,Client_Corp_1353,Retail,USA,Organic Search
+1354,Client_Corp_1354,Manufacturing,Canada,Cold Outreach
+1355,Client_Corp_1355,Education,India,Referral
+1356,Client_Corp_1356,Manufacturing,USA,Paid Ads
+1357,Client_Corp_1357,Education,Canada,Cold Outreach
+1358,Client_Corp_1358,Manufacturing,USA,Paid Ads
+1359,Client_Corp_1359,Finance,India,Organic Search
+1360,Client_Corp_1360,Retail,India,Paid Ads
+1361,Client_Corp_1361,Tech,India,Paid Ads
+1362,Client_Corp_1362,Education,UK,Cold Outreach
+1363,Client_Corp_1363,Education,Australia,Paid Ads
+1364,Client_Corp_1364,Tech,Australia,Cold Outreach
+1365,Client_Corp_1365,Manufacturing,USA,Organic Search
+1366,Client_Corp_1366,Education,Australia,Cold Outreach
+1367,Client_Corp_1367,Finance,USA,Cold Outreach
+1368,Client_Corp_1368,Retail,Canada,Referral
+1369,Client_Corp_1369,Tech,USA,Paid Ads
+1370,Client_Corp_1370,Retail,USA,Organic Search
+1371,Client_Corp_1371,Education,USA,Cold Outreach
+1372,Client_Corp_1372,Education,Canada,Organic Search
+1373,Client_Corp_1373,Tech,USA,Referral
+1374,Client_Corp_1374,Finance,Germany,Paid Ads
+1375,Client_Corp_1375,Healthcare,USA,Cold Outreach
+1376,Client_Corp_1376,Tech,USA,Paid Ads
+1377,Client_Corp_1377,Healthcare,UK,Referral
+1378,Client_Corp_1378,Manufacturing,Germany,Referral
+1379,Client_Corp_1379,Healthcare,USA,Organic Search
+1380,Client_Corp_1380,Finance,Canada,Cold Outreach
+1381,Client_Corp_1381,Manufacturing,Australia,Organic Search
+1382,Client_Corp_1382,Healthcare,Canada,Referral
+1383,Client_Corp_1383,Manufacturing,USA,Paid Ads
+1384,Client_Corp_1384,Healthcare,USA,Organic Search
+1385,Client_Corp_1385,Finance,Australia,Organic Search
+1386,Client_Corp_1386,Healthcare,USA,Paid Ads
+1387,Client_Corp_1387,Healthcare,Australia,Organic Search
+1388,Client_Corp_1388,Healthcare,UK,Paid Ads
+1389,Client_Corp_1389,Tech,India,Cold Outreach
+1390,Client_Corp_1390,Tech,Germany,Paid Ads
+1391,Client_Corp_1391,Tech,India,Cold Outreach
+1392,Client_Corp_1392,Finance,USA,Paid Ads
+1393,Client_Corp_1393,Manufacturing,Germany,Referral
+1394,Client_Corp_1394,Education,UK,Referral
+1395,Client_Corp_1395,Healthcare,UK,Cold Outreach
+1396,Client_Corp_1396,Healthcare,Canada,Cold Outreach
+1397,Client_Corp_1397,Finance,Australia,Referral
+1398,Client_Corp_1398,Healthcare,India,Cold Outreach
+1399,Client_Corp_1399,Tech,Germany,Paid Ads
+1400,Client_Corp_1400,Education,UK,Paid Ads
+1401,Client_Corp_1401,Retail,UK,Referral
+1402,Client_Corp_1402,Healthcare,Germany,Organic Search
+1403,Client_Corp_1403,Tech,USA,Paid Ads
+1404,Client_Corp_1404,Retail,USA,Cold Outreach
+1405,Client_Corp_1405,Education,USA,Organic Search
+1406,Client_Corp_1406,Retail,USA,Organic Search
+1407,Client_Corp_1407,Tech,USA,Paid Ads
+1408,Client_Corp_1408,Manufacturing,USA,Paid Ads
+1409,Client_Corp_1409,Manufacturing,USA,Organic Search
+1410,Client_Corp_1410,Retail,USA,Organic Search
+1411,Client_Corp_1411,Finance,India,Referral
+1412,Client_Corp_1412,Retail,UK,Cold Outreach
+1413,Client_Corp_1413,Healthcare,USA,Referral
+1414,Client_Corp_1414,Healthcare,Canada,Paid Ads
+1415,Client_Corp_1415,Manufacturing,USA,Referral
+1416,Client_Corp_1416,Finance,India,Referral
+1417,Client_Corp_1417,Tech,Germany,Referral
+1418,Client_Corp_1418,Healthcare,USA,Referral
+1419,Client_Corp_1419,Manufacturing,UK,Cold Outreach
+1420,Client_Corp_1420,Education,Australia,Cold Outreach
+1421,Client_Corp_1421,Manufacturing,India,Organic Search
+1422,Client_Corp_1422,Healthcare,UK,Paid Ads
+1423,Client_Corp_1423,Healthcare,Canada,Referral
+1424,Client_Corp_1424,Manufacturing,USA,Organic Search
+1425,Client_Corp_1425,Tech,India,Organic Search
+1426,Client_Corp_1426,Retail,USA,Organic Search
+1427,Client_Corp_1427,Healthcare,India,Cold Outreach
+1428,Client_Corp_1428,Manufacturing,Canada,Referral
+1429,Client_Corp_1429,Manufacturing,Canada,Referral
+1430,Client_Corp_1430,Finance,UK,Paid Ads
+1431,Client_Corp_1431,Retail,USA,Referral
+1432,Client_Corp_1432,Education,USA,Referral
+1433,Client_Corp_1433,Tech,USA,Organic Search
+1434,Client_Corp_1434,Education,USA,Paid Ads
+1435,Client_Corp_1435,Retail,Germany,Referral
+1436,Client_Corp_1436,Retail,USA,Cold Outreach
+1437,Client_Corp_1437,Retail,USA,Referral
+1438,Client_Corp_1438,Education,India,Organic Search
+1439,Client_Corp_1439,Retail,Australia,Cold Outreach
+1440,Client_Corp_1440,Manufacturing,India,Organic Search
+1441,Client_Corp_1441,Education,India,Referral
+1442,Client_Corp_1442,Retail,USA,Cold Outreach
+1443,Client_Corp_1443,Manufacturing,USA,Paid Ads
+1444,Client_Corp_1444,Finance,Germany,Paid Ads
+1445,Client_Corp_1445,Retail,Canada,Cold Outreach
+1446,Client_Corp_1446,Education,USA,Cold Outreach
+1447,Client_Corp_1447,Healthcare,Australia,Organic Search
+1448,Client_Corp_1448,Retail,USA,Cold Outreach
+1449,Client_Corp_1449,Healthcare,USA,Organic Search
+1450,Client_Corp_1450,Manufacturing,UK,Referral
+1451,Client_Corp_1451,Finance,Canada,Organic Search
+1452,Client_Corp_1452,Tech,Canada,Cold Outreach
+1453,Client_Corp_1453,Finance,USA,Cold Outreach
+1454,Client_Corp_1454,Retail,Australia,Referral
+1455,Client_Corp_1455,Healthcare,USA,Cold Outreach
+1456,Client_Corp_1456,Healthcare,USA,Cold Outreach
+1457,Client_Corp_1457,Education,Australia,Paid Ads
+1458,Client_Corp_1458,Healthcare,India,Paid Ads
+1459,Client_Corp_1459,Education,Australia,Referral
+1460,Client_Corp_1460,Manufacturing,Australia,Organic Search
+1461,Client_Corp_1461,Tech,Canada,Paid Ads
+1462,Client_Corp_1462,Retail,Canada,Organic Search
+1463,Client_Corp_1463,Education,USA,Cold Outreach
+1464,Client_Corp_1464,Tech,UK,Paid Ads
+1465,Client_Corp_1465,Healthcare,USA,Referral
+1466,Client_Corp_1466,Healthcare,USA,Referral
+1467,Client_Corp_1467,Tech,Germany,Referral
+1468,Client_Corp_1468,Healthcare,UK,Paid Ads
+1469,Client_Corp_1469,Manufacturing,USA,Organic Search
+1470,Client_Corp_1470,Manufacturing,USA,Cold Outreach
+1471,Client_Corp_1471,Tech,Canada,Organic Search
+1472,Client_Corp_1472,Education,USA,Organic Search
+1473,Client_Corp_1473,Education,Australia,Cold Outreach
+1474,Client_Corp_1474,Tech,UK,Cold Outreach
+1475,Client_Corp_1475,Education,UK,Paid Ads
+1476,Client_Corp_1476,Education,Canada,Paid Ads
+1477,Client_Corp_1477,Manufacturing,Australia,Paid Ads
+1478,Client_Corp_1478,Education,USA,Paid Ads
+1479,Client_Corp_1479,Finance,Canada,Paid Ads
+1480,Client_Corp_1480,Retail,Canada,Cold Outreach
+1481,Client_Corp_1481,Healthcare,USA,Organic Search
+1482,Client_Corp_1482,Finance,Australia,Paid Ads
+1483,Client_Corp_1483,Education,Germany,Paid Ads
+1484,Client_Corp_1484,Manufacturing,Canada,Organic Search
+1485,Client_Corp_1485,Tech,Australia,Paid Ads
+1486,Client_Corp_1486,Education,Australia,Organic Search
+1487,Client_Corp_1487,Manufacturing,Germany,Organic Search
+1488,Client_Corp_1488,Retail,Australia,Cold Outreach
+1489,Client_Corp_1489,Education,Canada,Referral
+1490,Client_Corp_1490,Tech,Canada,Cold Outreach
+1491,Client_Corp_1491,Manufacturing,Canada,Referral
+1492,Client_Corp_1492,Manufacturing,Germany,Referral
+1493,Client_Corp_1493,Manufacturing,USA,Referral
+1494,Client_Corp_1494,Retail,Australia,Paid Ads
+1495,Client_Corp_1495,Education,Australia,Cold Outreach
+1496,Client_Corp_1496,Retail,USA,Referral
+1497,Client_Corp_1497,Healthcare,Australia,Organic Search
+1498,Client_Corp_1498,Healthcare,USA,Paid Ads
+1499,Client_Corp_1499,Education,USA,Cold Outreach
+1500,Client_Corp_1500,Retail,Germany,Referral
+1501,Client_Corp_1501,Tech,USA,Organic Search
+1502,Client_Corp_1502,Manufacturing,Australia,Cold Outreach
+1503,Client_Corp_1503,Manufacturing,Australia,Cold Outreach
+1504,Client_Corp_1504,Education,UK,Paid Ads
+1505,Client_Corp_1505,Healthcare,USA,Cold Outreach
+1506,Client_Corp_1506,Healthcare,USA,Paid Ads
+1507,Client_Corp_1507,Manufacturing,Canada,Referral
+1508,Client_Corp_1508,Education,India,Paid Ads
+1509,Client_Corp_1509,Retail,Canada,Organic Search
+1510,Client_Corp_1510,Healthcare,USA,Paid Ads
+1511,Client_Corp_1511,Retail,Canada,Organic Search
+1512,Client_Corp_1512,Healthcare,UK,Paid Ads
+1513,Client_Corp_1513,Healthcare,Germany,Cold Outreach
+1514,Client_Corp_1514,Finance,USA,Referral
+1515,Client_Corp_1515,Healthcare,Germany,Organic Search
+1516,Client_Corp_1516,Tech,UK,Paid Ads
+1517,Client_Corp_1517,Education,India,Paid Ads
+1518,Client_Corp_1518,Education,USA,Paid Ads
+1519,Client_Corp_1519,Retail,Canada,Cold Outreach
+1520,Client_Corp_1520,Healthcare,India,Cold Outreach
+1521,Client_Corp_1521,Tech,USA,Organic Search
+1522,Client_Corp_1522,Retail,India,Organic Search
+1523,Client_Corp_1523,Finance,Canada,Cold Outreach
+1524,Client_Corp_1524,Retail,USA,Organic Search
+1525,Client_Corp_1525,Retail,USA,Referral
+1526,Client_Corp_1526,Healthcare,Germany,Referral
+1527,Client_Corp_1527,Finance,USA,Cold Outreach
+1528,Client_Corp_1528,Retail,Canada,Organic Search
+1529,Client_Corp_1529,Tech,USA,Paid Ads
+1530,Client_Corp_1530,Tech,Canada,Referral
+1531,Client_Corp_1531,Education,USA,Cold Outreach
+1532,Client_Corp_1532,Finance,Australia,Organic Search
+1533,Client_Corp_1533,Finance,India,Cold Outreach
+1534,Client_Corp_1534,Education,India,Paid Ads
+1535,Client_Corp_1535,Retail,Germany,Referral
+1536,Client_Corp_1536,Finance,USA,Cold Outreach
+1537,Client_Corp_1537,Tech,Germany,Cold Outreach
+1538,Client_Corp_1538,Tech,USA,Cold Outreach
+1539,Client_Corp_1539,Healthcare,USA,Paid Ads
+1540,Client_Corp_1540,Finance,USA,Cold Outreach
+1541,Client_Corp_1541,Retail,UK,Paid Ads
+1542,Client_Corp_1542,Education,Germany,Paid Ads
+1543,Client_Corp_1543,Education,Canada,Paid Ads
+1544,Client_Corp_1544,Retail,UK,Referral
+1545,Client_Corp_1545,Manufacturing,USA,Referral
+1546,Client_Corp_1546,Healthcare,India,Cold Outreach
+1547,Client_Corp_1547,Education,UK,Cold Outreach
+1548,Client_Corp_1548,Finance,UK,Referral
+1549,Client_Corp_1549,Healthcare,USA,Organic Search
+1550,Client_Corp_1550,Finance,Germany,Referral
+1551,Client_Corp_1551,Tech,Canada,Paid Ads
+1552,Client_Corp_1552,Healthcare,USA,Referral
+1553,Client_Corp_1553,Education,USA,Paid Ads
+1554,Client_Corp_1554,Healthcare,Canada,Cold Outreach
+1555,Client_Corp_1555,Healthcare,Canada,Organic Search
+1556,Client_Corp_1556,Healthcare,USA,Cold Outreach
+1557,Client_Corp_1557,Manufacturing,India,Paid Ads
+1558,Client_Corp_1558,Healthcare,USA,Paid Ads
+1559,Client_Corp_1559,Finance,UK,Paid Ads
+1560,Client_Corp_1560,Tech,India,Organic Search
+1561,Client_Corp_1561,Retail,UK,Referral
+1562,Client_Corp_1562,Healthcare,Canada,Cold Outreach
+1563,Client_Corp_1563,Education,USA,Cold Outreach
+1564,Client_Corp_1564,Healthcare,USA,Referral
+1565,Client_Corp_1565,Education,India,Cold Outreach
+1566,Client_Corp_1566,Finance,UK,Organic Search
+1567,Client_Corp_1567,Education,Australia,Cold Outreach
+1568,Client_Corp_1568,Retail,USA,Paid Ads
+1569,Client_Corp_1569,Tech,USA,Referral
+1570,Client_Corp_1570,Education,USA,Organic Search
+1571,Client_Corp_1571,Education,Canada,Referral
+1572,Client_Corp_1572,Tech,USA,Organic Search
+1573,Client_Corp_1573,Retail,Australia,Paid Ads
+1574,Client_Corp_1574,Healthcare,UK,Referral
+1575,Client_Corp_1575,Education,India,Cold Outreach
+1576,Client_Corp_1576,Tech,USA,Organic Search
+1577,Client_Corp_1577,Finance,Australia,Referral
+1578,Client_Corp_1578,Tech,Germany,Cold Outreach
+1579,Client_Corp_1579,Finance,Germany,Referral
+1580,Client_Corp_1580,Retail,Australia,Referral
+1581,Client_Corp_1581,Healthcare,Germany,Referral
+1582,Client_Corp_1582,Tech,Canada,Organic Search
+1583,Client_Corp_1583,Manufacturing,USA,Cold Outreach
+1584,Client_Corp_1584,Education,USA,Paid Ads
+1585,Client_Corp_1585,Retail,India,Organic Search
+1586,Client_Corp_1586,Tech,Canada,Organic Search
+1587,Client_Corp_1587,Education,Germany,Organic Search
+1588,Client_Corp_1588,Tech,UK,Paid Ads
+1589,Client_Corp_1589,Finance,USA,Cold Outreach
+1590,Client_Corp_1590,Tech,USA,Cold Outreach
+1591,Client_Corp_1591,Manufacturing,Canada,Cold Outreach
+1592,Client_Corp_1592,Tech,UK,Referral
+1593,Client_Corp_1593,Tech,USA,Referral
+1594,Client_Corp_1594,Manufacturing,UK,Referral
+1595,Client_Corp_1595,Retail,USA,Paid Ads
+1596,Client_Corp_1596,Tech,Canada,Referral
+1597,Client_Corp_1597,Manufacturing,USA,Paid Ads
+1598,Client_Corp_1598,Education,Germany,Cold Outreach
+1599,Client_Corp_1599,Finance,USA,Referral
+1600,Client_Corp_1600,Finance,UK,Referral
+1601,Client_Corp_1601,Tech,USA,Organic Search
+1602,Client_Corp_1602,Retail,USA,Paid Ads
+1603,Client_Corp_1603,Retail,USA,Cold Outreach
+1604,Client_Corp_1604,Education,UK,Organic Search
+1605,Client_Corp_1605,Tech,Canada,Organic Search
+1606,Client_Corp_1606,Finance,USA,Cold Outreach
+1607,Client_Corp_1607,Retail,Canada,Organic Search
+1608,Client_Corp_1608,Tech,Australia,Paid Ads
+1609,Client_Corp_1609,Retail,Germany,Paid Ads
+1610,Client_Corp_1610,Manufacturing,USA,Referral
+1611,Client_Corp_1611,Retail,UK,Organic Search
+1612,Client_Corp_1612,Finance,USA,Referral
+1613,Client_Corp_1613,Healthcare,USA,Organic Search
+1614,Client_Corp_1614,Education,India,Paid Ads
+1615,Client_Corp_1615,Education,USA,Paid Ads
+1616,Client_Corp_1616,Finance,UK,Paid Ads
+1617,Client_Corp_1617,Retail,Canada,Organic Search
+1618,Client_Corp_1618,Tech,Germany,Paid Ads
+1619,Client_Corp_1619,Retail,Canada,Organic Search
+1620,Client_Corp_1620,Finance,USA,Referral
+1621,Client_Corp_1621,Education,USA,Organic Search
+1622,Client_Corp_1622,Retail,UK,Referral
+1623,Client_Corp_1623,Education,USA,Organic Search
+1624,Client_Corp_1624,Tech,USA,Referral
+1625,Client_Corp_1625,Education,USA,Paid Ads
+1626,Client_Corp_1626,Education,USA,Referral
+1627,Client_Corp_1627,Healthcare,USA,Paid Ads
+1628,Client_Corp_1628,Healthcare,USA,Paid Ads
+1629,Client_Corp_1629,Manufacturing,Canada,Referral
+1630,Client_Corp_1630,Healthcare,Canada,Organic Search
+1631,Client_Corp_1631,Education,Australia,Organic Search
+1632,Client_Corp_1632,Finance,USA,Cold Outreach
+1633,Client_Corp_1633,Education,USA,Organic Search
+1634,Client_Corp_1634,Finance,USA,Cold Outreach
+1635,Client_Corp_1635,Finance,Canada,Organic Search
+1636,Client_Corp_1636,Healthcare,Germany,Organic Search
+1637,Client_Corp_1637,Retail,USA,Paid Ads
+1638,Client_Corp_1638,Tech,India,Cold Outreach
+1639,Client_Corp_1639,Healthcare,USA,Organic Search
+1640,Client_Corp_1640,Healthcare,UK,Cold Outreach
+1641,Client_Corp_1641,Retail,Germany,Paid Ads
+1642,Client_Corp_1642,Tech,Australia,Paid Ads
+1643,Client_Corp_1643,Education,Germany,Cold Outreach
+1644,Client_Corp_1644,Manufacturing,Australia,Paid Ads
+1645,Client_Corp_1645,Manufacturing,USA,Referral
+1646,Client_Corp_1646,Education,Australia,Referral
+1647,Client_Corp_1647,Healthcare,USA,Paid Ads
+1648,Client_Corp_1648,Tech,Australia,Referral
+1649,Client_Corp_1649,Healthcare,UK,Organic Search
+1650,Client_Corp_1650,Finance,Australia,Cold Outreach
+1651,Client_Corp_1651,Healthcare,UK,Organic Search
+1652,Client_Corp_1652,Healthcare,Canada,Cold Outreach
+1653,Client_Corp_1653,Education,UK,Paid Ads
+1654,Client_Corp_1654,Education,Germany,Organic Search
+1655,Client_Corp_1655,Education,USA,Paid Ads
+1656,Client_Corp_1656,Manufacturing,USA,Paid Ads
+1657,Client_Corp_1657,Finance,USA,Cold Outreach
+1658,Client_Corp_1658,Education,USA,Cold Outreach
+1659,Client_Corp_1659,Tech,Australia,Cold Outreach
+1660,Client_Corp_1660,Manufacturing,USA,Organic Search
+1661,Client_Corp_1661,Retail,India,Referral
+1662,Client_Corp_1662,Tech,USA,Cold Outreach
+1663,Client_Corp_1663,Tech,USA,Cold Outreach
+1664,Client_Corp_1664,Education,Germany,Organic Search
+1665,Client_Corp_1665,Retail,Canada,Cold Outreach
+1666,Client_Corp_1666,Retail,UK,Organic Search
+1667,Client_Corp_1667,Manufacturing,Canada,Paid Ads
+1668,Client_Corp_1668,Retail,Germany,Cold Outreach
+1669,Client_Corp_1669,Finance,USA,Cold Outreach
+1670,Client_Corp_1670,Education,India,Paid Ads
+1671,Client_Corp_1671,Retail,India,Paid Ads
+1672,Client_Corp_1672,Manufacturing,Canada,Paid Ads
+1673,Client_Corp_1673,Finance,USA,Cold Outreach
+1674,Client_Corp_1674,Healthcare,Canada,Referral
+1675,Client_Corp_1675,Healthcare,USA,Referral
+1676,Client_Corp_1676,Finance,USA,Referral
+1677,Client_Corp_1677,Manufacturing,USA,Cold Outreach
+1678,Client_Corp_1678,Finance,UK,Paid Ads
+1679,Client_Corp_1679,Education,Australia,Cold Outreach
+1680,Client_Corp_1680,Education,Germany,Paid Ads
+1681,Client_Corp_1681,Healthcare,Germany,Cold Outreach
+1682,Client_Corp_1682,Retail,UK,Cold Outreach
+1683,Client_Corp_1683,Manufacturing,USA,Paid Ads
+1684,Client_Corp_1684,Healthcare,USA,Referral
+1685,Client_Corp_1685,Retail,India,Paid Ads
+1686,Client_Corp_1686,Retail,USA,Organic Search
+1687,Client_Corp_1687,Education,Australia,Organic Search
+1688,Client_Corp_1688,Tech,Canada,Paid Ads
+1689,Client_Corp_1689,Tech,UK,Cold Outreach
+1690,Client_Corp_1690,Finance,Germany,Organic Search
+1691,Client_Corp_1691,Education,UK,Organic Search
+1692,Client_Corp_1692,Retail,Australia,Cold Outreach
+1693,Client_Corp_1693,Manufacturing,India,Cold Outreach
+1694,Client_Corp_1694,Tech,UK,Referral
+1695,Client_Corp_1695,Retail,USA,Cold Outreach
+1696,Client_Corp_1696,Tech,Canada,Paid Ads
+1697,Client_Corp_1697,Tech,India,Paid Ads
+1698,Client_Corp_1698,Tech,USA,Referral
+1699,Client_Corp_1699,Manufacturing,Canada,Organic Search
+1700,Client_Corp_1700,Education,Canada,Organic Search
+1701,Client_Corp_1701,Manufacturing,Germany,Cold Outreach
+1702,Client_Corp_1702,Healthcare,USA,Paid Ads
+1703,Client_Corp_1703,Retail,Germany,Organic Search
+1704,Client_Corp_1704,Education,India,Referral
+1705,Client_Corp_1705,Education,USA,Referral
+1706,Client_Corp_1706,Education,USA,Paid Ads
+1707,Client_Corp_1707,Education,India,Referral
+1708,Client_Corp_1708,Manufacturing,USA,Referral
+1709,Client_Corp_1709,Education,Australia,Paid Ads
+1710,Client_Corp_1710,Finance,UK,Cold Outreach
+1711,Client_Corp_1711,Retail,USA,Cold Outreach
+1712,Client_Corp_1712,Education,Australia,Referral
+1713,Client_Corp_1713,Retail,UK,Cold Outreach
+1714,Client_Corp_1714,Finance,UK,Cold Outreach
+1715,Client_Corp_1715,Finance,USA,Referral
+1716,Client_Corp_1716,Retail,Canada,Cold Outreach
+1717,Client_Corp_1717,Tech,USA,Referral
+1718,Client_Corp_1718,Healthcare,USA,Organic Search
+1719,Client_Corp_1719,Tech,India,Paid Ads
+1720,Client_Corp_1720,Tech,USA,Paid Ads
+1721,Client_Corp_1721,Manufacturing,Canada,Cold Outreach
+1722,Client_Corp_1722,Tech,USA,Cold Outreach
+1723,Client_Corp_1723,Education,Germany,Cold Outreach
+1724,Client_Corp_1724,Manufacturing,USA,Paid Ads
+1725,Client_Corp_1725,Manufacturing,India,Organic Search
+1726,Client_Corp_1726,Finance,UK,Organic Search
+1727,Client_Corp_1727,Tech,USA,Paid Ads
+1728,Client_Corp_1728,Finance,USA,Organic Search
+1729,Client_Corp_1729,Retail,USA,Paid Ads
+1730,Client_Corp_1730,Healthcare,UK,Organic Search
+1731,Client_Corp_1731,Manufacturing,USA,Referral
+1732,Client_Corp_1732,Retail,Australia,Referral
+1733,Client_Corp_1733,Retail,UK,Paid Ads
+1734,Client_Corp_1734,Education,USA,Organic Search
+1735,Client_Corp_1735,Healthcare,Canada,Cold Outreach
+1736,Client_Corp_1736,Retail,Germany,Organic Search
+1737,Client_Corp_1737,Retail,USA,Referral
+1738,Client_Corp_1738,Healthcare,USA,Referral
+1739,Client_Corp_1739,Healthcare,USA,Organic Search
+1740,Client_Corp_1740,Retail,Germany,Organic Search
+1741,Client_Corp_1741,Healthcare,Canada,Cold Outreach
+1742,Client_Corp_1742,Retail,UK,Cold Outreach
+1743,Client_Corp_1743,Retail,Australia,Organic Search
+1744,Client_Corp_1744,Education,Australia,Organic Search
+1745,Client_Corp_1745,Tech,Canada,Organic Search
+1746,Client_Corp_1746,Retail,Australia,Organic Search
+1747,Client_Corp_1747,Finance,USA,Paid Ads
+1748,Client_Corp_1748,Manufacturing,USA,Organic Search
+1749,Client_Corp_1749,Tech,USA,Cold Outreach
+1750,Client_Corp_1750,Tech,USA,Referral
+1751,Client_Corp_1751,Tech,UK,Paid Ads
+1752,Client_Corp_1752,Education,India,Organic Search
+1753,Client_Corp_1753,Retail,USA,Referral
+1754,Client_Corp_1754,Education,USA,Paid Ads
+1755,Client_Corp_1755,Retail,UK,Referral
+1756,Client_Corp_1756,Education,India,Organic Search
+1757,Client_Corp_1757,Education,USA,Organic Search
+1758,Client_Corp_1758,Manufacturing,UK,Cold Outreach
+1759,Client_Corp_1759,Finance,USA,Organic Search
+1760,Client_Corp_1760,Education,USA,Organic Search
+1761,Client_Corp_1761,Manufacturing,India,Paid Ads
+1762,Client_Corp_1762,Healthcare,India,Cold Outreach
+1763,Client_Corp_1763,Finance,USA,Paid Ads
+1764,Client_Corp_1764,Education,India,Referral
+1765,Client_Corp_1765,Tech,Canada,Organic Search
+1766,Client_Corp_1766,Healthcare,Australia,Referral
+1767,Client_Corp_1767,Healthcare,UK,Paid Ads
+1768,Client_Corp_1768,Manufacturing,UK,Organic Search
+1769,Client_Corp_1769,Healthcare,UK,Organic Search
+1770,Client_Corp_1770,Finance,Canada,Paid Ads
+1771,Client_Corp_1771,Education,USA,Paid Ads
+1772,Client_Corp_1772,Education,USA,Paid Ads
+1773,Client_Corp_1773,Tech,USA,Paid Ads
+1774,Client_Corp_1774,Manufacturing,Germany,Paid Ads
+1775,Client_Corp_1775,Tech,USA,Organic Search
+1776,Client_Corp_1776,Healthcare,Canada,Paid Ads
+1777,Client_Corp_1777,Tech,India,Organic Search
+1778,Client_Corp_1778,Finance,USA,Organic Search
+1779,Client_Corp_1779,Education,Canada,Paid Ads
+1780,Client_Corp_1780,Healthcare,UK,Paid Ads
+1781,Client_Corp_1781,Tech,Australia,Cold Outreach
+1782,Client_Corp_1782,Manufacturing,USA,Organic Search
+1783,Client_Corp_1783,Finance,Canada,Paid Ads
+1784,Client_Corp_1784,Finance,Australia,Paid Ads
+1785,Client_Corp_1785,Tech,India,Paid Ads
+1786,Client_Corp_1786,Education,Canada,Cold Outreach
+1787,Client_Corp_1787,Tech,UK,Cold Outreach
+1788,Client_Corp_1788,Healthcare,Canada,Referral
+1789,Client_Corp_1789,Tech,Australia,Organic Search
+1790,Client_Corp_1790,Finance,Canada,Referral
+1791,Client_Corp_1791,Tech,USA,Paid Ads
+1792,Client_Corp_1792,Education,India,Cold Outreach
+1793,Client_Corp_1793,Manufacturing,Canada,Cold Outreach
+1794,Client_Corp_1794,Retail,Canada,Referral
+1795,Client_Corp_1795,Tech,USA,Cold Outreach
+1796,Client_Corp_1796,Education,Canada,Paid Ads
+1797,Client_Corp_1797,Education,USA,Cold Outreach
+1798,Client_Corp_1798,Manufacturing,Canada,Referral
+1799,Client_Corp_1799,Finance,USA,Paid Ads
+1800,Client_Corp_1800,Education,Canada,Referral
+1801,Client_Corp_1801,Education,India,Cold Outreach
+1802,Client_Corp_1802,Education,USA,Referral
+1803,Client_Corp_1803,Education,India,Referral
+1804,Client_Corp_1804,Healthcare,UK,Organic Search
+1805,Client_Corp_1805,Healthcare,Australia,Cold Outreach
+1806,Client_Corp_1806,Finance,Germany,Cold Outreach
+1807,Client_Corp_1807,Tech,Canada,Referral
+1808,Client_Corp_1808,Education,Germany,Organic Search
+1809,Client_Corp_1809,Manufacturing,Australia,Cold Outreach
+1810,Client_Corp_1810,Tech,UK,Paid Ads
+1811,Client_Corp_1811,Manufacturing,USA,Referral
+1812,Client_Corp_1812,Tech,Canada,Cold Outreach
+1813,Client_Corp_1813,Finance,Australia,Paid Ads
+1814,Client_Corp_1814,Education,Germany,Cold Outreach
+1815,Client_Corp_1815,Education,Germany,Paid Ads
+1816,Client_Corp_1816,Retail,UK,Referral
+1817,Client_Corp_1817,Manufacturing,Australia,Cold Outreach
+1818,Client_Corp_1818,Tech,USA,Cold Outreach
+1819,Client_Corp_1819,Tech,UK,Organic Search
+1820,Client_Corp_1820,Healthcare,USA,Referral
+1821,Client_Corp_1821,Retail,USA,Paid Ads
+1822,Client_Corp_1822,Healthcare,USA,Cold Outreach
+1823,Client_Corp_1823,Healthcare,USA,Cold Outreach
+1824,Client_Corp_1824,Healthcare,Canada,Paid Ads
+1825,Client_Corp_1825,Manufacturing,USA,Referral
+1826,Client_Corp_1826,Manufacturing,UK,Organic Search
+1827,Client_Corp_1827,Finance,USA,Organic Search
+1828,Client_Corp_1828,Finance,USA,Cold Outreach
+1829,Client_Corp_1829,Healthcare,USA,Paid Ads
+1830,Client_Corp_1830,Retail,USA,Cold Outreach
+1831,Client_Corp_1831,Tech,Canada,Paid Ads
+1832,Client_Corp_1832,Manufacturing,Canada,Organic Search
+1833,Client_Corp_1833,Retail,Canada,Referral
+1834,Client_Corp_1834,Education,UK,Paid Ads
+1835,Client_Corp_1835,Manufacturing,USA,Organic Search
+1836,Client_Corp_1836,Manufacturing,Australia,Cold Outreach
+1837,Client_Corp_1837,Finance,UK,Paid Ads
+1838,Client_Corp_1838,Tech,UK,Referral
+1839,Client_Corp_1839,Tech,USA,Cold Outreach
+1840,Client_Corp_1840,Education,USA,Cold Outreach
+1841,Client_Corp_1841,Education,USA,Organic Search
+1842,Client_Corp_1842,Manufacturing,USA,Paid Ads
+1843,Client_Corp_1843,Healthcare,Canada,Cold Outreach
+1844,Client_Corp_1844,Finance,UK,Referral
+1845,Client_Corp_1845,Finance,Canada,Paid Ads
+1846,Client_Corp_1846,Manufacturing,Germany,Referral
+1847,Client_Corp_1847,Retail,Australia,Cold Outreach
+1848,Client_Corp_1848,Healthcare,Germany,Referral
+1849,Client_Corp_1849,Manufacturing,India,Organic Search
+1850,Client_Corp_1850,Healthcare,USA,Referral
+1851,Client_Corp_1851,Healthcare,USA,Paid Ads
+1852,Client_Corp_1852,Healthcare,USA,Referral
+1853,Client_Corp_1853,Manufacturing,Canada,Referral
+1854,Client_Corp_1854,Finance,Australia,Organic Search
+1855,Client_Corp_1855,Finance,USA,Referral
+1856,Client_Corp_1856,Healthcare,India,Referral
+1857,Client_Corp_1857,Retail,USA,Cold Outreach
+1858,Client_Corp_1858,Tech,India,Cold Outreach
+1859,Client_Corp_1859,Manufacturing,USA,Paid Ads
+1860,Client_Corp_1860,Tech,USA,Cold Outreach
+1861,Client_Corp_1861,Retail,UK,Cold Outreach
+1862,Client_Corp_1862,Manufacturing,USA,Cold Outreach
+1863,Client_Corp_1863,Healthcare,USA,Cold Outreach
+1864,Client_Corp_1864,Finance,USA,Organic Search
+1865,Client_Corp_1865,Tech,Australia,Cold Outreach
+1866,Client_Corp_1866,Education,UK,Organic Search
+1867,Client_Corp_1867,Education,USA,Organic Search
+1868,Client_Corp_1868,Retail,Canada,Cold Outreach
+1869,Client_Corp_1869,Healthcare,Germany,Referral
+1870,Client_Corp_1870,Tech,USA,Organic Search
+1871,Client_Corp_1871,Healthcare,UK,Referral
+1872,Client_Corp_1872,Tech,USA,Referral
+1873,Client_Corp_1873,Retail,USA,Cold Outreach
+1874,Client_Corp_1874,Retail,Canada,Paid Ads
+1875,Client_Corp_1875,Education,USA,Cold Outreach
+1876,Client_Corp_1876,Healthcare,UK,Paid Ads
+1877,Client_Corp_1877,Manufacturing,Germany,Paid Ads
+1878,Client_Corp_1878,Education,USA,Cold Outreach
+1879,Client_Corp_1879,Healthcare,Canada,Cold Outreach
+1880,Client_Corp_1880,Education,USA,Paid Ads
+1881,Client_Corp_1881,Manufacturing,India,Cold Outreach
+1882,Client_Corp_1882,Finance,UK,Paid Ads
+1883,Client_Corp_1883,Finance,Australia,Referral
+1884,Client_Corp_1884,Finance,Canada,Cold Outreach
+1885,Client_Corp_1885,Finance,USA,Referral
+1886,Client_Corp_1886,Tech,Canada,Organic Search
+1887,Client_Corp_1887,Finance,India,Referral
+1888,Client_Corp_1888,Manufacturing,Canada,Referral
+1889,Client_Corp_1889,Retail,Australia,Paid Ads
+1890,Client_Corp_1890,Retail,Australia,Referral
+1891,Client_Corp_1891,Tech,USA,Cold Outreach
+1892,Client_Corp_1892,Finance,USA,Paid Ads
+1893,Client_Corp_1893,Finance,Canada,Organic Search
+1894,Client_Corp_1894,Finance,UK,Cold Outreach
+1895,Client_Corp_1895,Education,Australia,Organic Search
+1896,Client_Corp_1896,Healthcare,India,Referral
+1897,Client_Corp_1897,Education,USA,Cold Outreach
+1898,Client_Corp_1898,Healthcare,USA,Cold Outreach
+1899,Client_Corp_1899,Finance,Germany,Organic Search
+1900,Client_Corp_1900,Finance,USA,Cold Outreach
+1901,Client_Corp_1901,Education,Australia,Cold Outreach
+1902,Client_Corp_1902,Education,UK,Cold Outreach
+1903,Client_Corp_1903,Healthcare,Canada,Referral
+1904,Client_Corp_1904,Retail,USA,Organic Search
+1905,Client_Corp_1905,Healthcare,Canada,Cold Outreach
+1906,Client_Corp_1906,Education,UK,Paid Ads
+1907,Client_Corp_1907,Manufacturing,Canada,Paid Ads
+1908,Client_Corp_1908,Education,USA,Paid Ads
+1909,Client_Corp_1909,Manufacturing,Germany,Paid Ads
+1910,Client_Corp_1910,Tech,Australia,Referral
+1911,Client_Corp_1911,Education,USA,Cold Outreach
+1912,Client_Corp_1912,Tech,USA,Organic Search
+1913,Client_Corp_1913,Retail,USA,Cold Outreach
+1914,Client_Corp_1914,Healthcare,Canada,Referral
+1915,Client_Corp_1915,Manufacturing,Canada,Paid Ads
+1916,Client_Corp_1916,Healthcare,UK,Referral
+1917,Client_Corp_1917,Tech,USA,Cold Outreach
+1918,Client_Corp_1918,Manufacturing,USA,Organic Search
+1919,Client_Corp_1919,Healthcare,Canada,Referral
+1920,Client_Corp_1920,Education,UK,Organic Search
+1921,Client_Corp_1921,Finance,India,Referral
+1922,Client_Corp_1922,Tech,USA,Organic Search
+1923,Client_Corp_1923,Healthcare,Canada,Organic Search
+1924,Client_Corp_1924,Tech,UK,Paid Ads
+1925,Client_Corp_1925,Tech,UK,Organic Search
+1926,Client_Corp_1926,Manufacturing,Germany,Paid Ads
+1927,Client_Corp_1927,Manufacturing,Canada,Cold Outreach
+1928,Client_Corp_1928,Finance,India,Cold Outreach
+1929,Client_Corp_1929,Education,USA,Paid Ads
+1930,Client_Corp_1930,Tech,USA,Paid Ads
+1931,Client_Corp_1931,Healthcare,Germany,Referral
+1932,Client_Corp_1932,Retail,Canada,Referral
+1933,Client_Corp_1933,Tech,USA,Referral
+1934,Client_Corp_1934,Tech,USA,Cold Outreach
+1935,Client_Corp_1935,Finance,USA,Referral
+1936,Client_Corp_1936,Education,Australia,Organic Search
+1937,Client_Corp_1937,Retail,USA,Organic Search
+1938,Client_Corp_1938,Manufacturing,USA,Referral
+1939,Client_Corp_1939,Manufacturing,USA,Organic Search
+1940,Client_Corp_1940,Healthcare,USA,Cold Outreach
+1941,Client_Corp_1941,Retail,USA,Organic Search
+1942,Client_Corp_1942,Manufacturing,UK,Cold Outreach
+1943,Client_Corp_1943,Healthcare,USA,Paid Ads
+1944,Client_Corp_1944,Education,Australia,Paid Ads
+1945,Client_Corp_1945,Healthcare,USA,Paid Ads
+1946,Client_Corp_1946,Manufacturing,UK,Paid Ads
+1947,Client_Corp_1947,Finance,Australia,Organic Search
+1948,Client_Corp_1948,Finance,Canada,Referral
+1949,Client_Corp_1949,Finance,UK,Organic Search
+1950,Client_Corp_1950,Manufacturing,USA,Cold Outreach
+1951,Client_Corp_1951,Finance,USA,Organic Search
+1952,Client_Corp_1952,Retail,Canada,Organic Search
+1953,Client_Corp_1953,Education,India,Cold Outreach
+1954,Client_Corp_1954,Healthcare,Canada,Paid Ads
+1955,Client_Corp_1955,Healthcare,Canada,Paid Ads
+1956,Client_Corp_1956,Manufacturing,Germany,Paid Ads
+1957,Client_Corp_1957,Finance,UK,Referral
+1958,Client_Corp_1958,Finance,USA,Cold Outreach
+1959,Client_Corp_1959,Tech,Canada,Cold Outreach
+1960,Client_Corp_1960,Education,India,Organic Search
+1961,Client_Corp_1961,Retail,USA,Referral
+1962,Client_Corp_1962,Healthcare,Canada,Paid Ads
+1963,Client_Corp_1963,Tech,USA,Referral
+1964,Client_Corp_1964,Tech,UK,Cold Outreach
+1965,Client_Corp_1965,Manufacturing,USA,Cold Outreach
+1966,Client_Corp_1966,Healthcare,UK,Organic Search
+1967,Client_Corp_1967,Manufacturing,Germany,Organic Search
+1968,Client_Corp_1968,Retail,USA,Cold Outreach
+1969,Client_Corp_1969,Tech,Canada,Paid Ads
+1970,Client_Corp_1970,Tech,Germany,Paid Ads
+1971,Client_Corp_1971,Education,India,Referral
+1972,Client_Corp_1972,Retail,USA,Cold Outreach
+1973,Client_Corp_1973,Tech,USA,Cold Outreach
+1974,Client_Corp_1974,Retail,USA,Paid Ads
+1975,Client_Corp_1975,Healthcare,India,Paid Ads
+1976,Client_Corp_1976,Finance,India,Cold Outreach
+1977,Client_Corp_1977,Tech,UK,Organic Search
+1978,Client_Corp_1978,Education,Australia,Cold Outreach
+1979,Client_Corp_1979,Healthcare,UK,Cold Outreach
+1980,Client_Corp_1980,Retail,Canada,Paid Ads
+1981,Client_Corp_1981,Manufacturing,USA,Paid Ads
+1982,Client_Corp_1982,Healthcare,Germany,Organic Search
+1983,Client_Corp_1983,Tech,USA,Organic Search
+1984,Client_Corp_1984,Retail,Australia,Referral
+1985,Client_Corp_1985,Finance,Germany,Cold Outreach
+1986,Client_Corp_1986,Healthcare,Germany,Paid Ads
+1987,Client_Corp_1987,Tech,USA,Organic Search
+1988,Client_Corp_1988,Education,USA,Referral
+1989,Client_Corp_1989,Manufacturing,USA,Referral
+1990,Client_Corp_1990,Retail,USA,Paid Ads
+1991,Client_Corp_1991,Healthcare,USA,Paid Ads
+1992,Client_Corp_1992,Healthcare,India,Referral
+1993,Client_Corp_1993,Finance,Canada,Organic Search
+1994,Client_Corp_1994,Finance,USA,Referral
+1995,Client_Corp_1995,Education,USA,Cold Outreach
+1996,Client_Corp_1996,Manufacturing,UK,Cold Outreach
+1997,Client_Corp_1997,Education,Canada,Paid Ads
+1998,Client_Corp_1998,Tech,UK,Organic Search
+1999,Client_Corp_1999,Tech,India,Organic Search
+2000,Client_Corp_2000,Education,UK,Cold Outreach

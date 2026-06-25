@@ -1,0 +1,4 @@
+PlanID,PlanName,MonthlyPrice,BillingCycle
+1,Basic,29.99,Monthly
+2,Pro,99.99,Monthly
+3,Enterprise,299.99,Annual
