@@ -3,11 +3,11 @@ import numpy as np
 import random
 from datetime import datetime, timedelta
 
-# Set random seed for reproducibility
+# Setting random seed for reproducibility
 np.random.seed(42)
 random.seed(42)
 
-# 1. Generate Dim_SubscriptionPlan
+# Dim_SubscriptionPlan Generator
 
 plans_data = {
     'PlanID': [1, 2, 3],
@@ -17,7 +17,7 @@ plans_data = {
 }
 df_plans = pd.DataFrame(plans_data)
 
-# 2. Generate Dim_Customer
+# Dim_Customer Generator
 
 num_customers = 1000
 industries = ['Tech', 'Healthcare', 'Finance', 'Retail', 'Education', 'Manufacturing']
@@ -33,7 +33,7 @@ customers_data = {
 }
 df_customers = pd.DataFrame(customers_data)
 
-# 3. Generate Fact_Subscriptions
+# Fact_Subscriptions Subscription
 
 # Roughly 3 years of data, with churn and re-subscription possibilities
 start_date_range = datetime(2021, 1, 1)
@@ -43,7 +43,7 @@ subscriptions = []
 sub_id_counter = 5001
 
 for _, customer in df_customers.iterrows():
-    # How many subscriptions has this customer had? (Usually 1, sometimes 2 if they churned and came back)
+    # No. of subscriptions has this customer had, (Usually 1, sometimes 2 if they churned and came back)
     num_subs = np.random.choice([1, 2], p=[0.85, 0.15])
     
     for _ in range(num_subs):
@@ -61,7 +61,7 @@ for _, customer in df_customers.iterrows():
             # Active for a random amount of months (1 to 24)
             active_days = random.randint(30, 730)
             sub_end = sub_start + timedelta(days=active_days)
-            # Cap end date to today's equivalent in our dataset
+            # Cap end date to today's equivalent in dataset
             if sub_end > end_date_range:
                 sub_end = pd.NaT 
                 status = 'Active'
