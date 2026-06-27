@@ -60,3 +60,6 @@ Engineered a robust ETL process to handle relational data.
 Built a dynamic Star Schema for scalability and performance.
 
 Deployed version control via GitHub to document the development lifecycle.
+
+## Dashboard Access
+Due to Power BI public publishing restrictions, please view the project showcase PDF here: [https://drive.google.com/file/d/1zg_SVP2Os1_DgOkoRqt-qeFOEHAUMdaO/view?usp=sharing].
