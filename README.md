@@ -1,6 +1,7 @@
 # SaaS Customer Churn & MRR Analysis
 
 ## Project Overview
+<<<<<<< HEAD
 An end-to-end Power BI project focused on SaaS analytics. This dashboard tracks essential KPIs including Monthly Recurring Revenue (MRR), Customer Churn Rate, and discount impacts to provide actionable business insights.
 
 ## Technical Stack
@@ -16,12 +17,14 @@ An end-to-end Power BI project focused on SaaS analytics. This dashboard tracks 
 ## Key DAX Measures
 This project utilizes custom DAX measures to derive business insights, organized by their functional purpose. 
 
+
 ### 1. Foundational Metrics
 These measures provide the core count and revenue calculations for the business.
 
 **Total Customers:**
 ```dax
 Total Customers = DISTINCTCOUNT(Fact_Subscriptions[CustomerID])
+
 ```
 Baseline MRR:
 ```
